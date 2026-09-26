@@ -74,6 +74,3 @@ ORDER BY mes;
 -- Se identificaron 5 clientes recurrentes.
 -- El cliente con ID 1 realizó 2 pedidos
 -- y acumuló un gasto total de 2640,00.
-
-
- 
